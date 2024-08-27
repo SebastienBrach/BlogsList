@@ -1,6 +1,3 @@
-# BlogsList
-Liste de blog qui sont intéressant
-
 ## Liste :
 - [x] https://tech.kibatic.com/
 - [x] https://www.grottedubarbu.fr/
