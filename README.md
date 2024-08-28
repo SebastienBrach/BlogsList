@@ -1,31 +1,40 @@
+# BlogsList
+
+Ce repository contient une collection de liens vers des blogs et sites web spécialisés dans le développement web, DevOps, design, et autres sujets techniques. Cette liste est utile pour rester à jour sur les dernières tendances, techniques, et bonnes pratiques dans le domaine du développement.
+
 ## Liste :
-- [x] https://tech.kibatic.com/
-- [x] https://www.grottedubarbu.fr/
-- [x] https://www.codeheroes.fr/
-- [x] https://code-garage.fr/blog/
-- [x] https://kinsta.com/fr/blog/
-- [x] https://www.padok.fr/blog
-- [x] https://devopscube.com/blog/
-- [x] https://blog.ippon.fr/
-- [x] https://www.hostinger.fr/tutoriels/
-- [x] https://blog.zenika.com/tous-les-articles/
-- [x] https://korben.info/
-- [x] https://www.ionos.fr/digitalguide/
-- [x] https://dunglas.dev/
-- [x] https://buzut.net/
-- [x] https://www.blogdumoderateur.com/
-- [x] https://www.alsacreations.com/
-- [x] https://jolicode.com/blog/
-- [x] https://grafikart.fr/blog
-- [x] https://tympanus.net/codrops/
-- [x] https://www.lafermeduweb.net/
-- [x] https://davidwalsh.name/
-- [x] https://www.smashingmagazine.com/
-- [x] https://css-tricks.com/
-- [x] https://www.sitepoint.com/blog/
-- [x] https://github.blog/
-- [x] https://alexsoyes.com/blog/
-- [x] https://developpeur-freelance.io/blog/
-- [x] https://blog.ippon.fr/
-- [x] https://www.synbioz.com/blog/tech
-- [x] https://lesjoiesducode.fr/
+- [x] [Tech Kibatic](https://tech.kibatic.com/)
+- [x] [Code Heroes](https://www.codeheroes.fr/)
+- [x] [Code Garage](https://code-garage.fr/blog/)
+- [x] [Kinsta](https://kinsta.com/fr/blog/)
+- [x] [Padok](https://www.padok.fr/blog)
+- [x] [Devopscube](https://devopscube.com/blog/)
+- [x] [Hostinger](https://www.hostinger.fr/tutoriels/)
+- [x] [Zenika](https://blog.zenika.com/tous-les-articles/)
+- [x] [Korben](https://korben.info/)
+- [x] [Ionos](https://www.ionos.fr/digitalguide/)
+- [x] [Kévin Dunglas](https://dunglas.dev/)
+- [x] [Buzut](https://buzut.net/)
+- [x] [Le Blog du Moderateur](https://www.blogdumoderateur.com/)
+- [x] [Alsacreations](https://www.alsacreations.com/)
+- [x] [Jolicode](https://jolicode.com/blog/)
+- [x] [Grafikart](https://grafikart.fr/blog)
+- [x] [Tympanus](https://tympanus.net/codrops/)
+- [x] [La ferme du Web](https://www.lafermeduweb.net/)
+- [x] [David Walsh](https://davidwalsh.name/)
+- [x] [Smashing Magazine](https://www.smashingmagazine.com/)
+- [x] [CSS Tricks](https://css-tricks.com/)
+- [x] [SitePoint](https://www.sitepoint.com/blog/)
+- [x] [GitHub Blog](https://github.blog/)
+- [x] [Alexsoyes](https://alexsoyes.com/blog/)
+- [x] [Developpeur Freelance](https://developpeur-freelance.io/blog/)
+- [x] [Ippon](https://blog.ippon.fr/)
+- [x] [Synbioz](https://www.synbioz.com/blog/tech)
+- [x] [Les joies du code](https://lesjoiesducode.fr/)
+- [x] [Robert Stephane](https://blog.stephane-robert.info/post/)
+- [x] [Une tasse de Cafe](https://une-tasse-de.cafe/)
+- [x] [Galadrim](https://galadrim.fr/blog/tech)
+- [x] [Zatoufly](https://zatoufly.fr/)
+- [x] [RedHat](https://www.redhat.com/fr/topics)
+- [x] [Xavki](https://xavki.blog/)
+- [x] [Grafikart](https://grafikart.fr/blog)
